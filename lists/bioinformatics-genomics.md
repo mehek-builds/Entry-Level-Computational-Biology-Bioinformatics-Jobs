@@ -6,7 +6,7 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
-| **Cook Children’s where you can be the hero in a child’s story** | [Bioinformatician](https://trylitos.com/job/dd5121e4-b82b-4575-b4fa-46ffb88d6f08?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Fort Worth, TX |  | Oct 14 |  |
+| **Cook Children’s** | [Bioinformatician](https://trylitos.com/job/dd5121e4-b82b-4575-b4fa-46ffb88d6f08?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Fort Worth, TX |  | Oct 14 |  |
 | **Inotiv** | [Scientist, Proteomics](https://trylitos.com/job/6d4eb7a2-2ec9-4b4a-a5a0-56b620746a67?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Nashville, TN |  | Oct 13 |  |
 | **Washington University in St. Louis** | [Bioinformatics Research Assistant - Pediatrics Newborn Medicine](https://trylitos.com/job/9e96abf5-22f7-4a11-be51-6a5cb166d30e?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Washington University Medical Campus |  | Oct 13 |  |
 | **Nationwide Children's Hospital** | [Bioinformatics Analyst I - Lung Regeneration Research](https://trylitos.com/job/73e21b14-b1f6-4995-ad35-2871a213a8f0?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Main Campus, Columbus, OH |  | Oct 12 |  |
