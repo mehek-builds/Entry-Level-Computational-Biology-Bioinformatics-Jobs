@@ -1,0 +1,35 @@
+# 25 bioinformatics and genomics roles
+
+**25 roles at 15 companies.** Checked 15 Oct 2026. Bioinformatics, bioinformaticians, genomics, single cell, proteomics and statistical genetics.
+
+_Pulled from companies' own job boards and rebuilt every Monday._
+
+| Company | Role | Location | Pay | Posted | Visa signal |
+| --- | --- | --- | --- | --- | --- |
+| **Cook Children’s where you can be the hero in a child’s story** | [Bioinformatician](https://trylitos.com/job/dd5121e4-b82b-4575-b4fa-46ffb88d6f08?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Fort Worth, TX |  | Oct 14 |  |
+| **Inotiv** | [Scientist, Proteomics](https://trylitos.com/job/6d4eb7a2-2ec9-4b4a-a5a0-56b620746a67?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Nashville, TN |  | Oct 13 |  |
+| **Washington University in St. Louis** | [Bioinformatics Research Assistant - Pediatrics Newborn Medicine](https://trylitos.com/job/9e96abf5-22f7-4a11-be51-6a5cb166d30e?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Washington University Medical Campus |  | Oct 13 |  |
+| **Nationwide Children's Hospital** | [Bioinformatics Analyst I - Lung Regeneration Research](https://trylitos.com/job/73e21b14-b1f6-4995-ad35-2871a213a8f0?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Main Campus, Columbus, OH |  | Oct 12 |  |
+| **Zoetis** | [Summer Intern - Pharmacogenomics Data Science & Genomic Prediction (VMRD)](https://trylitos.com/job/02d690a2-dde1-48a2-a793-150cacf08a2e?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Kalamazoo - Downtown Portage Street |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Vertex Pharmaceuticals** | [Spring 2027 Co-op, Functional Genomics](https://trylitos.com/job/4e9a9e47-6bd8-4423-b02b-f77f1ade97d2?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Boston, MA |  | Oct 7 |  |
+| **St. Jude** | [Postdoctoral Research Associate - Gene Regulation, Single-Cell Multi-omics, and Functional Genomics](https://trylitos.com/job/a61e00f6-28e4-4a8f-a330-16e78018271c?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Memphis, TN |  | Oct 7 |  |
+| **Nationwide Children's Hospital** | [IGM Bioinformatics Analyst I](https://trylitos.com/job/fa8825b2-dd6d-4d58-80c9-22b65a92616f?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Main Campus, Columbus, OH |  | Oct 7 |  |
+| **Johnson & Johnson** | [Proteomics Summer Intern 2027](https://trylitos.com/job/a8e0216a-aa86-4083-a10d-bb2828e6e04f?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | San Diego, California, United States of Ameri |  | Oct 6 |  |
+| **St. Jude** | [Scientist (Genomics / Gene Editing & Bioinformatics) - Wlodarski Lab](https://trylitos.com/job/75091d0a-4a4f-494b-9948-780a476fb558?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Memphis, TN |  | Oct 5 |  |
+| **Regeneron** | [2027 Co-op Genetics & Genomics (Regeneron Genetics Center)](https://trylitos.com/job/3c063d2f-ee06-4fea-8aac-89d7e69c3b90?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | TARRYTOWN |  | Oct 2 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Northeastern** | [Bioinformatician - Lotterhos Lab](https://trylitos.com/job/bb939fe1-0e28-4e66-8e06-6058cec8a6a1?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Nahant, MA |  | Sep 15 |  |
+| **Vertex Pharmaceuticals** | [Computational Genomics Research Scientist](https://trylitos.com/job/31e0c933-6cbb-4f94-9024-4d86f6ae881d?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Boston, MA |  | Sep 8 |  |
+| **St. Jude** | [Associate Scientist - Single Cell Genomics Core / Neurocytometry Core](https://trylitos.com/job/d4c5ccbe-8b16-42f5-91f9-94fad414f20e?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Memphis, TN |  | Sep 4 |  |
+| **Washington University in St. Louis** | [Bioinformatics Research Assistant - Pediatrics Hematology, Oncology, and Infectious Diseases](https://trylitos.com/job/ac844425-8ccb-4ed4-af68-6b93e97e576b?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Washington University Medical Campus |  | Sep 1 |  |
+| **Washington University in St. Louis** | [Bioinformatics Research Analyst - Pediatrics Newborn Medicine](https://trylitos.com/job/f2024223-7886-4743-a93a-e6dd594557c8?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Washington University Medical Campus |  | Aug 31 |  |
+| **Mass General Brigham** | [Research Fellow Center for Genomic Medicine](https://trylitos.com/job/ce6ccac1-2ee7-4291-a90a-816c2529a3b3?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Boston-MA |  | Aug 21 |  |
+| **University of Chicago** | [Bioinformatician](https://trylitos.com/job/f7b6d38e-51c6-48d6-be9d-c721f42703ee?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Chicago, IL |  | Aug 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **University of Southern California** | [Postdoctoral Scholar - Research Associate - Cancer Genomics and Therapeutics](https://trylitos.com/job/acc39f3f-83d7-477c-9e19-332e8c740c70?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Los Angeles, CA - Health Sciences Campus |  | Aug 11 |  |
+| **St. Jude** | [Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology](https://trylitos.com/job/6cede009-a31b-41b1-8d13-0d0837393efe?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Memphis, TN |  | Jul 24 |  |
+| **Washington University in St. Louis** | [Postdoctoral Research Associate (Proteomics and Multiomics in Neurodegeneration) - Psychiatry](https://trylitos.com/job/a7413559-1504-49ca-898e-d23abd9e787f?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Washington University Medical Campus |  | Jul 16 |  |
+| **Washington University in St. Louis** | [Bioinformatics Research Analyst - Neurology](https://trylitos.com/job/acb5626f-73ac-47a4-af5a-48e3fc8f085d?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Washington University Medical Campus |  | Jul 16 |  |
+| **Washington University in St. Louis** | [Bioinformatics Research Analyst (Hybrid) - Neurology](https://trylitos.com/job/71e04459-f7e0-4e6d-bd69-5c202f20812e?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Washington University Medical Campus |  | Jul 16 |  |
+| **MyOme** | [Bioinformatics Scientist/Biostatistician Contractor](https://trylitos.com/job/f02028fe-1603-4633-b41d-cd54834f73fa?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Menlo Park, California, United States | USD 75 to 140 per hour | Sep 22 |  |
+| **Parse Biosciences** | [Genomics Lab Technician](https://trylitos.com/job/b81bc40c-3efc-4862-b409-0517e211ba66?utm_source=github&utm_campaign=comp-bio-bioinformatics-genomics) | Seattle, WA | USD 35 to 40 per hour | Jun 30 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+
+[Download as CSV](../csv/) · [All lists](../README.md)
