@@ -2,7 +2,7 @@
 
 **9 roles at 7 companies.** Checked 20 Oct 2026. Computational and bioinformatics internships and co-ops.
 
-_Pulled from companies' own job boards and rebuilt every Monday._
+_Dated employer-board snapshot. Confirm current availability, degree and experience requirements on the employer posting. Title screening does not establish entry-level eligibility for every role._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |

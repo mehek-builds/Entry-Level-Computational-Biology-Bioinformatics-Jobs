@@ -2,7 +2,7 @@
 
 **22 roles at 14 companies.** Checked 20 Oct 2026. Bioinformatics, bioinformaticians, genomics, single cell, proteomics and statistical genetics.
 
-_Pulled from companies' own job boards and rebuilt every Monday._
+_Dated employer-board snapshot. Confirm current availability, degree and experience requirements on the employer posting. Title screening does not establish entry-level eligibility for every role._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |

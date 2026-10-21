@@ -1,11 +1,12 @@
-# 23 computational biology and chemistry roles
+# 24 computational biology and chemistry roles
 
-**23 roles at 18 companies.** Checked 20 Oct 2026. Computational biology, computational chemistry, cheminformatics and systems biology.
+**24 roles at 18 companies.** Checked 20 Oct 2026. Computational biology, computational chemistry, cheminformatics and systems biology.
 
-_Pulled from companies' own job boards and rebuilt every Monday._
+_Dated employer-board snapshot. Confirm current availability, degree and experience requirements on the employer posting. Title screening does not establish entry-level eligibility for every role._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Amgen** | [Scientist, Integrated Computational and Experimental Inflammation Discovery](https://trylitos.com/job/007c2314-8a02-438e-a043-89739f90e321?utm_source=github&utm_campaign=comp-bio-computational-biology-chemistry) | US - California - South San Francisco |  | Oct 16 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Zoetis** | [Research Intern - Computational Biology Intern](https://trylitos.com/job/3c1d7b0e-43ff-43f7-9d3b-6ef4dbbb769f?utm_source=github&utm_campaign=comp-bio-computational-biology-chemistry) | US CO Remote |  | Oct 16 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Beth Israel Lahey Health** | [Postdoctoral Research Fellow in Computational Oncology](https://trylitos.com/job/b0ce438a-40cb-4b6c-b14c-d1ce13f86a1c?utm_source=github&utm_campaign=comp-bio-computational-biology-chemistry) | Beth Israel Deaconess Medical Center |  | Oct 13 |  |
 | **Argonne National Laboratory** | [Postdoctoral Appointee - Computational Chemistry](https://trylitos.com/job/4029fd30-eb5f-4c08-87eb-0585eb6f2aa8?utm_source=github&utm_campaign=comp-bio-computational-biology-chemistry) | Lemont, IL USA; On-site |  | Oct 14 |  |
