@@ -1,20 +1,22 @@
 # Entry Level Computational Biology and Bioinformatics Jobs
 
-**67 open entry level computational biology, bioinformatics, biostatistics and biotech data science roles and internships at 40 US employers.** Checked 20 Oct 2026. 30 posted in the last 7 days. 22 at employers with a visa sponsorship record.
+**65 title-screened leads for early-career computational biology, bioinformatics, biostatistics and biotech data science searches at 40 US employers.** Snapshot 20 Oct 2026. 18 have posting dates in the seven-day window ending 20 Oct 2026. 22 at employers with a visa sponsorship record.
 
-Entry level and early career roles in bioinformatics, genomics, computational biology and chemistry, biostatistics, and data science and machine learning at biotech, pharma and life science companies, plus internships. Senior, staff, principal, lead, manager and level III+ titles are left out.
+This resource supports early-career searches across bioinformatics, genomics, computational biology and chemistry, biostatistics, and data science and machine learning at biotech, pharma and life science companies, including internships. Senior, staff, principal, lead, manager and level III+ titles are left out. A junior-sounding title alone does not establish entry-level eligibility: degree and experience requirements vary and have not been independently verified for every remaining role. Confirm those requirements on the employer posting before applying.
 
-Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=comp-bio-readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. Rebuilt every Monday, so closed roles drop off and new ones come in.
+Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=comp-bio-readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. This is a dated observation, not a guarantee that each employer still accepts applications. A missing role in a later snapshot does not by itself confirm employer closure.
 
 | List | Roles | Employers |
 | --- | --- | --- |
 | [Bioinformatics and genomics](lists/bioinformatics-genomics.md) | 22 | 14 |
-| [Computational biology and chemistry](lists/computational-biology-chemistry.md) | 23 | 18 |
-| [Biostatistics](lists/biostatistics.md) | 9 | 7 |
-| [Data science and ML in biotech](lists/data-science-ml.md) | 18 | 17 |
+| [Computational biology and chemistry](lists/computational-biology-chemistry.md) | 24 | 18 |
+| [Biostatistics](lists/biostatistics.md) | 8 | 7 |
+| [Data science and ML in biotech](lists/data-science-ml.md) | 19 | 18 |
 | [Internships](lists/internships.md) | 9 | 7 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
+
+Eligibility correction, 21 Oct 2026: removed two roles whose employer requirements conflict with this entry-level resource. This correction does not refresh the availability or requirements of every other role. [Maintainer checks and exclusions](MAINTAINING.md).
 
 ## All roles
 
@@ -22,7 +24,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | --- | --- | --- | --- | --- | --- |
 | **UofL** | [Temporary Bioinformatics Pipeline Assistant](https://trylitos.com/job/2102b299-d56b-4050-8213-39a804d4f28d?utm_source=github&utm_campaign=comp-bio-all) | Health Sciences Center |  | Oct 20 |  |
 | **WIBR** | [Data Scientist - Corradin Lab (Relocation Assistance Available)](https://trylitos.com/job/cf0d3cec-84a5-4f3a-b7ca-4db12e3f65c1?utm_source=github&utm_campaign=comp-bio-all) | Cambridge, MA |  | Oct 20 |  |
-| **MyOme** | [Machine Learning Engineer](https://trylitos.com/job/a03bcad5-f320-4b05-9395-613ecef4a514?utm_source=github&utm_campaign=comp-bio-all) | Menlo Park, California, United States | USD 170,000 to 200,000 per year | Oct 19 |  |
 | **Washington University in St. Louis** | [Bioinformaticist - Neurology](https://trylitos.com/job/2c663133-956f-43dd-84d2-777675c9f277?utm_source=github&utm_campaign=comp-bio-all) | Washington University Medical Campus |  | Oct 19 |  |
 | **Washington University in St. Louis** | [Bioinformatics Research Assistant (Part-Time) - Medical Oncology](https://trylitos.com/job/97f4ab3e-14af-4825-a267-dc8d9fbb7350?utm_source=github&utm_campaign=comp-bio-all) | Washington University Medical Campus |  | Oct 19 |  |
 | **Amgen** | [Scientist, Integrated Computational and Experimental Inflammation Discovery](https://trylitos.com/job/007c2314-8a02-438e-a043-89739f90e321?utm_source=github&utm_campaign=comp-bio-all) | US - California - South San Francisco |  | Oct 16 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -77,7 +78,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Anthropic** | [Research Scientist, Life Sciences (Computational)](https://trylitos.com/job/b336470c-9b8b-4b95-9ce4-1aff25bd360c?utm_source=github&utm_campaign=comp-bio-computational-biology-chemistry) | San Francisco, CA | USD 300,000 to 320,000 per year | Aug 21 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Cogent Biosciences** | [Research Investigator, Computational Chemistry](https://trylitos.com/job/55dcab99-99c1-4a01-85e9-796f578b0905?utm_source=github&utm_campaign=comp-bio-computational-biology-chemistry) | Boulder, Colorado, United States |  | Jun 29 |  |
 | **Frontier Medicines** | [AI Cheminformatics Engineer I](https://trylitos.com/job/7c5f0911-2057-431d-9503-c000a03b898a?utm_source=github&utm_campaign=comp-bio-computational-biology-chemistry) | South San Francisco, California, United State |  | Jun 25 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **St. Jude** | [Chair & Member - Department of Biostatistics](https://trylitos.com/job/fa9a0128-42c9-4f10-83a0-ce9bfb06ee17?utm_source=github&utm_campaign=comp-bio-biostatistics) | Memphis, TN |  | Sep 28 |  |
 | **Washington University in St. Louis** | [Medical Informaticist II (Hybrid) - Institute for Informatics, Data Science and Biostatistics](https://trylitos.com/job/d6a31090-e093-4480-847d-abf0566386bb?utm_source=github&utm_campaign=comp-bio-biostatistics) | Washington University Medical Campus |  | Sep 22 |  |
 | **St. Jude** | [Postdoctoral Research Associate - Biostatistics](https://trylitos.com/job/7ae27f32-4985-4f83-9235-746e88609521?utm_source=github&utm_campaign=comp-bio-biostatistics) | Memphis, TN |  | Jun 17 |  |
 | **Merck & Co. (MSD)** | [Associate Scientist, Postdoctoral Research Fellow, AI-Guided Functional Immunology](https://trylitos.com/job/38d35feb-e626-439f-9b6c-d6d6409c1408?utm_source=github&utm_campaign=comp-bio-data-science-ml) | USA - Massachusetts - Cambridge (320 Bent Str |  | Oct 8 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -90,6 +90,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 
 Visa signal: the posting says it sponsors, or the employer has US H-1B (USCIS) or LCA (DOL) records. A record means the employer has sponsored before, not that a given role will, so always confirm with the employer.
 
-Star this repo to keep it handy, and watch it to get the Monday update. More lists: [Postdoc-and-PhD-Science-Jobs](https://github.com/mehek-builds/Postdoc-and-PhD-Science-Jobs), [Entry-Level-Biotech-Pharma-Jobs](https://github.com/mehek-builds/Entry-Level-Biotech-Pharma-Jobs) and [Pharma-RD-Associate-Scientist-Jobs](https://github.com/mehek-builds/Pharma-RD-Associate-Scientist-Jobs).
+Star this repo to keep it handy, and watch it for future updates. More lists: [Postdoc-and-PhD-Science-Jobs](https://github.com/mehek-builds/Postdoc-and-PhD-Science-Jobs), [Entry-Level-Biotech-Pharma-Jobs](https://github.com/mehek-builds/Entry-Level-Biotech-Pharma-Jobs) and [Pharma-RD-Associate-Scientist-Jobs](https://github.com/mehek-builds/Pharma-RD-Associate-Scientist-Jobs).
 
-Maintained by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=comp-bio-readme&utm_medium=readme). Free, no signup.
+Maintained by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=comp-bio-readme&utm_medium=readme). This public list is free to read without signing in.

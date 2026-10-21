@@ -1,0 +1,9 @@
+# Maintaining this resource
+
+The published lists are dated observations. The source generator is not stored in this repository. A future refresh must preserve the verified exclusions in `eligibility-exclusions.json` and run `python3 scripts/validate.py` before publication. Use `--base <previous-published-commit>` to additionally check that surviving referral links did not change. No refresh schedule is verified by files in this repository. Do not describe title filtering as an independent review of every degree or experience requirement.
+
+The October 21, 2026 eligibility correction removed a St. Jude department chair role requiring full-professor-level credentials and a MyOme engineering role requiring at least five years of experience. Employer ATS evidence is linked in the exclusions file. The correction also reconciles three existing root-list entries that were missing from their category mirrors and computes the dated posting count from the CSV. Category membership is topic-based and does not prove qualification eligibility. Other roles have not all received a fresh qualification or availability check.
+
+Keep the existing resource URLs and referral parameters. Reconcile the README, full lists and CSV copies together. Category membership overlaps, so category counts must not be added into a unique total. Preserve the actual snapshot date when making a targeted correction.
+
+Local checks: `python3 -m unittest discover -s tests` and `python3 scripts/validate.py`. This content repository has no TypeScript, JavaScript lint or compiled application build. Validation checks membership and counts across all published role mirrors, known exclusions and surviving links against a supplied baseline. It does not compare displayed title, pay or location fields across Markdown and CSV; it cannot prove current employer availability or universal entry-level eligibility.

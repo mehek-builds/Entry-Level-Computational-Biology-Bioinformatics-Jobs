@@ -1,13 +1,14 @@
-# 18 data science and ml in biotech roles
+# 19 data science and ml in biotech roles
 
-**18 roles at 17 companies.** Checked 20 Oct 2026. Data science, machine learning and research software roles at biotech, pharma and life science companies.
+**19 roles at 18 companies.** Checked 20 Oct 2026. Data science, machine learning and research software roles at biotech, pharma and life science companies.
 
-_Pulled from companies' own job boards and rebuilt every Monday._
+_Dated employer-board snapshot. Confirm current availability, degree and experience requirements on the employer posting. Title screening does not establish entry-level eligibility for every role._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **MiniMed** | [Clinical AI/Data Science Eng I](https://trylitos.com/job/0cdc8aa6-804f-48e2-a105-22f0682762d1?utm_source=github&utm_campaign=comp-bio-data-science-ml) | Northridge, California, United States of America |  | Oct 16 |  |
+| **Johnson & Johnson** | [Translational Post Doctoral Researcher - Agentic AI for Neurodegeneration](https://trylitos.com/job/79515cd9-0d4c-4161-b3fb-ae8d1ed82240?utm_source=github&utm_campaign=comp-bio-data-science-ml) | Titusville, New Jersey, United States of America; Cambridge, Massachusetts, United States of America; Raritan, New Jerse |  | Oct 14 |  |
 | **WIBR** | [Data Scientist - Corradin Lab (Relocation Assistance Available)](https://trylitos.com/job/cf0d3cec-84a5-4f3a-b7ca-4db12e3f65c1?utm_source=github&utm_campaign=comp-bio-data-science-ml) | Cambridge, MA |  | Oct 20 |  |
-| **MyOme** | [Machine Learning Engineer](https://trylitos.com/job/a03bcad5-f320-4b05-9395-613ecef4a514?utm_source=github&utm_campaign=comp-bio-data-science-ml) | Menlo Park, California, United States | USD 170,000 to 200,000 per year | Oct 19 |  |
 | **Washington University in St. Louis** | [Bioinformaticist - Neurology](https://trylitos.com/job/2c663133-956f-43dd-84d2-777675c9f277?utm_source=github&utm_campaign=comp-bio-data-science-ml) | Washington University Medical Campus |  | Oct 19 |  |
 | **Novartis** | [AI/ML for Biology Scientist](https://trylitos.com/job/db673e9b-3143-499e-8df1-1b5cbd154644?utm_source=github&utm_campaign=comp-bio-data-science-ml) | LaJolla/SD |  | Oct 15 |  |
 | **RAND** | [AI & Biosecurity Research Resident](https://trylitos.com/job/59bd6b83-f810-4d78-ba4a-93ac7a6cbe9e?utm_source=github&utm_campaign=comp-bio-data-science-ml) | USA - Remote; Pittsburgh, PA; Santa Monica, C |  | Oct 13 |  |

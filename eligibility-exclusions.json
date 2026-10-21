@@ -1,0 +1,16 @@
+{
+  "scope": "Confirmed non-entry-level roles excluded from this resource, not a complete experience audit",
+  "reviewed": "2026-10-21",
+  "jobs": [
+    {
+      "id": "fa9a0128-42c9-4f10-83a0-ce9bfb06ee17",
+      "reason": "Department chair requires academic credentials for a full professor-level appointment and demonstrated leadership.",
+      "source": "https://stjude.wd1.myworkdayjobs.com/wday/cxs/stjude/stjude/job/Memphis-TN/Chair---Member---Department-of-Biostatistics_JR7725"
+    },
+    {
+      "id": "a03bcad5-f320-4b05-9395-613ecef4a514",
+      "reason": "Employer requires at least five years developing models and three years with production models.",
+      "source": "https://boards-api.greenhouse.io/v1/boards/myome/jobs/4458014009"
+    }
+  ]
+}
