@@ -1,12 +1,13 @@
-# 5 biostatistics roles
+# 6 biostatistics roles
 
-**5 roles at 3 companies.** Checked 26 Oct 2026. Biostatisticians and statistical programmers in life sciences.
+**6 roles at 5 companies.** Checked 2 Nov 2026. Biostatisticians and statistical programmers in life sciences.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
-| **Washington University in St. Louis** | [Statistical Data Analyst MS (Part-Time) -  Biostatistics](https://trylitos.com/job/8bf22a1f-74a4-4fb2-a740-f86a910a31ed?utm_source=github&utm_campaign=comp-bio-biostatistics) | Washington University Medical Campus |  | Oct 23 |  |
+| **Regeneron** | [2027 Summer Intern Biostatistics & Statistical Programming](https://trylitos.com/job/31dd6c37-832d-40e2-bb3d-5955923fc5f7?utm_source=github&utm_campaign=comp-bio-biostatistics) | TARRYTOWN; Warren |  | Oct 28 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Amgen** | [Grad Intern - Biostatistics (Summer 2027)](https://trylitos.com/job/ebae7233-a781-434c-8a76-7e9183cd6f8e?utm_source=github&utm_campaign=comp-bio-biostatistics) | United States - Remote |  | Oct 26 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **St. Jude** | [Chair & Member - Department of Biostatistics](https://trylitos.com/job/fa9a0128-42c9-4f10-83a0-ce9bfb06ee17?utm_source=github&utm_campaign=comp-bio-biostatistics) | Memphis, TN |  | Sep 28 |  |
 | **Washington University in St. Louis** | [Medical Informaticist II (Hybrid) - Institute for Informatics, Data Science and Biostatistics](https://trylitos.com/job/d6a31090-e093-4480-847d-abf0566386bb?utm_source=github&utm_campaign=comp-bio-biostatistics) | Washington University Medical Campus |  | Sep 22 |  |
 | **St. Jude** | [Postdoctoral Research Associate - Biostatistics](https://trylitos.com/job/7ae27f32-4985-4f83-9235-746e88609521?utm_source=github&utm_campaign=comp-bio-biostatistics) | Memphis, TN |  | Jun 17 |  |
